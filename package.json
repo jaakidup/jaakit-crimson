@@ -1,0 +1,22 @@
+{
+    "name": "jaakit-crimson",
+    "displayName": "jaakit-crimson",
+    "description": "A royal crimson theme. ",
+    "publisher": "Jaakit",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.32.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Jaakit",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Jaakit-color-theme.json"
+            }
+        ]
+    }
+}

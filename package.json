@@ -3,8 +3,9 @@
     "displayName": "jaakit-crimson",
     "description": "A royal crimson theme. ",
     "publisher": "Jaakit",
-    "repository": {"type": "github","url": "https://github.com/jaakidup/jaakit-crimson"},
-    "version": "0.0.1",
+    "repository": {"type": "git","url": "https://github.com/jaakidup/jaakit-crimson"},
+    "version": "0.0.4",
+    "icon": "profile.png",
     "engines": {
         "vscode": "^1.32.0"
     },
